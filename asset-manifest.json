@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc684a01.css",
-    "main.js": "/static/js/main.ca3bd200.js",
-    "static/media/MehdiRezakhani2.jpg": "/static/media/MehdiRezakhani2.d435271cd5d44656f68c.jpg",
-    "index.html": "/index.html",
-    "main.bc684a01.css.map": "/static/css/main.bc684a01.css.map",
-    "main.ca3bd200.js.map": "/static/js/main.ca3bd200.js.map"
+    "main.css": "/real-estate-test/static/css/main.bc684a01.css",
+    "main.js": "/real-estate-test/static/js/main.fb26d641.js",
+    "static/media/MehdiRezakhani2.jpg": "/real-estate-test/static/media/MehdiRezakhani2.d435271cd5d44656f68c.jpg",
+    "index.html": "/real-estate-test/index.html",
+    "main.bc684a01.css.map": "/real-estate-test/static/css/main.bc684a01.css.map",
+    "main.fb26d641.js.map": "/real-estate-test/static/js/main.fb26d641.js.map"
   },
   "entrypoints": [
     "static/css/main.bc684a01.css",
-    "static/js/main.ca3bd200.js"
+    "static/js/main.fb26d641.js"
   ]
 }
