@@ -1,4 +1,5 @@
 {
+  "homepage": "https://OqbahAbbas.github.io/real-estate-test",
   "name": "Real Estate Investment Platform",
   "version": "0.1.6",
   "private": true,
@@ -53,7 +54,9 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject",
-    "postinstall": "npm run start"
+    "postinstall": "npm run start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -77,6 +80,7 @@
     "assert": "^2.0.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
+    "gh-pages": "^6.3.0",
     "https-browserify": "^1.0.0",
     "os-browserify": "^0.3.0",
     "process": "^0.11.10",
