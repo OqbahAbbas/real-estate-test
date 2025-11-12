@@ -14,7 +14,7 @@ import NotFound from './pages/NotFound';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/real-estate-test">
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-grow">
